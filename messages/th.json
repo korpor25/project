@@ -1,0 +1,69 @@
+{
+  "common": {
+    "appName": "CS Exhibition",
+    "loading": "กำลังโหลด...",
+    "save": "บันทึก",
+    "cancel": "ยกเลิก",
+    "confirm": "ยืนยัน",
+    "next": "ถัดไป",
+    "back": "ย้อนกลับ",
+    "search": "ค้นหา"
+  },
+  "nav": {
+    "home": "หน้าหลัก",
+    "rentSpace": "พื้นที่ให้เช่า",
+    "relatedArticles": "บทความที่เกี่ยวข้อง",
+    "allArticles": "ดูบทความทั้งหมด",
+    "gallery": "คลังรูปภาพ",
+    "about": "เกี่ยวกับเรา",
+    "contact": "ติดต่อเรา",
+    "login": "เข้าสู่ระบบ",
+    "register": "สมัครสมาชิก",
+    "registerFree": "สมัครสมาชิกฟรี",
+    "registerFreeBadge": "ไม่มีค่าใช้จ่าย!"
+  },
+  "auth": {
+    "loginTitle": "เข้าสู่ระบบ",
+    "loginButton": "เข้าสู่ระบบ",
+    "registerTitle": "สมัครสมาชิก",
+    "email": "อีเมล",
+    "emailOrPhone": "เบอร์โทรศัพท์หรืออีเมล",
+    "password": "รหัสผ่าน",
+    "confirmPassword": "ยืนยันรหัสผ่าน",
+    "fullName": "ชื่อ-นามสกุล",
+    "phone": "เบอร์โทรศัพท์",
+    "lineId": "LINE ID",
+    "forgotPassword": "ลืมรหัสผ่าน",
+    "acceptTerms": "ยอมรับเงื่อนไขการใช้งานและนโยบายความเป็นส่วนตัว",
+    "or": "หรือเข้าสู่ระบบด้วย"
+  },
+  "booking": {
+    "status": {
+      "PENDING": "รอดำเนินการ",
+      "REVIEWING": "กำลังตรวจสอบ",
+      "APPROVED": "อนุมัติแล้ว",
+      "REJECTED": "ถูกปฏิเสธ",
+      "CANCELLED": "ยกเลิกแล้ว",
+      "EXPIRED": "หมดอายุ"
+    }
+  },
+  "booth": {
+    "status": {
+      "AVAILABLE": "ว่าง",
+      "LOCKED": "กำลังเลือก",
+      "RESERVED": "จองแล้ว",
+      "SUSPENDED": "ระงับชั่วคราว",
+      "HIDDEN": "ซ่อน"
+    }
+  },
+  "errors": {
+    "BOOTH_UNAVAILABLE": "บูธนี้ถูกเลือกโดยผู้ใช้อื่น กรุณาเลือกบูธอื่น",
+    "BOOTH_RESERVED": "บูธนี้ถูกจองแล้ว",
+    "LOCK_EXPIRED": "เวลาในการเลือกบูธหมดแล้ว กรุณาเริ่มใหม่",
+    "ACCOUNT_SUSPENDED": "บัญชีของคุณถูกระงับ กรุณาติดต่อผู้ดูแล",
+    "INSUFFICIENT_ROLE": "สิทธิ์ไม่เพียงพอ",
+    "MISSING_TOKEN": "กรุณาเข้าสู่ระบบ",
+    "INVALID_TOKEN": "เซสชันหมดอายุ กรุณาเข้าสู่ระบบใหม่",
+    "UNKNOWN_ERROR": "เกิดข้อผิดพลาด กรุณาลองใหม่อีกครั้ง"
+  }
+}
